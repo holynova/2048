@@ -1,0 +1,9 @@
+.git/
+.gitignore
+.assetsignore
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+Rakefile
+style/main.scss
+style/helpers.scss
